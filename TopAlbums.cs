@@ -11,7 +11,7 @@ namespace webAPI_NaverMusic
     {
         public HttpClient client;
         private readonly string url = "https://api.deezer.com/";
-        private readonly string token = "frjhCp9I0g0bu7RPPhU9FSGAplkiaouQUih12HJWF497jSfuHek";
+        private readonly string token = "myToken";
 
         public TopAlbums()
         {
